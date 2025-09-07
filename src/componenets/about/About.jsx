@@ -26,7 +26,7 @@ const About = () => {
 						communicate clearly.
 					</p>
 
-					<a
+					{/* <a
 						download
 						href='https://drive.google.com/file/d/1qAXujqDEi1iv09GD4Xt9DFgNweJF7CjI/view?usp=drive_link'
 						target='_blank'
@@ -34,7 +34,7 @@ const About = () => {
 						className='button button-flex'
 					>
 						Download CV <FilesSVG />
-					</a>
+					</a> */}
 				</div>
 			</div>
 		</section>

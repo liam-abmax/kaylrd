@@ -7,7 +7,7 @@ const Info = () => {
 			<h1 className='home-title'>
 				Ajayi Kayode <Hand />
 			</h1>
-			<h3 className='home-subtitle'>Fullstack Web & Mobile Developer</h3>
+			<h3 className='home-subtitle'>Web & Mobile Developer</h3>
 			<p className='home-description'>
 				I’m passionate about turning ideas into fast, reliable
 				software.
