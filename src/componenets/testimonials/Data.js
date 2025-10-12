@@ -2,38 +2,38 @@ export const Data = [
 	{
 		id: 4,
 		image:
-			'https://cdn.jsdelivr.net/gh/KhalidHayKay/Assets@e5358a3b5f288c2759a46b0dd4815ab5c594efd2/Portfolio/Okiki_Omisande.jpg',
-		name: 'Okiki Omisande',
-		link: 'https://www.linkedin.com/in/okiki-omisande-b672a7229',
-		title: 'Blockchain Security Researcher',
+			'https://media.licdn.com/dms/image/v2/D4D03AQF58U0rfF3MPQ/profile-displayphoto-scale_400_400/B4DZnJYFmqJAAg-/0/1760020159904?e=1762992000&v=beta&t=MYoroMRBtLHbPl1vUGMcsLn2oluNkirYbKmhz2SoGI4',
+		name: 'Deji Uthman',
+		link: 'https://www.linkedin.com/in/uthman-dabiri-576339288/',
+		title: 'C# Developer',
 		description:
-			"Khalid is the kind of developer who makes hard things feel straightforward. We've worked together on projects where things got messy fast — and every time, he brought structure, patience, and a sharp eye for what actually matters. He doesn’t just write code, he thinks in systems, and that’s rare. Any team would be lucky to have him",
+			"I had the pleasure of collaborating with Kay on several projects,. He consistently demonstrated strong technical skills, a structured approach to problem-solving, and a keen understanding of system design. Kay's ability to deliver robust solutions under pressure makes him a valuable asset to any team.",
 	},
 	{
 		id: 1,
 		image: null,
-		name: 'Felix Dawodu',
-		link: 'https://www.linkedin.com/in/felix-dawodu-ba2b08211',
+		name: 'Usman Balogun',
+		link: 'https://www.linkedin.com/in/usman-balogun-123456789',
 		title: 'Software Developer',
 		description:
-			'Working with Khalid has been a consistently smooth experience. He’s methodical, proactive, and always willing to dig deep into tricky problems. On our recent project, I particularly admired how quickly he could turn feedback into elegant solutions. You definitely want him on your team.',
+			"Kay's professionalism and attention to detail stood out during our work on venueri web and mobile application. He is proactive, responsive to feedback, and consistently delivers high-quality results. His expertise in both frontend and backend development ensures seamless project execution.",
 	},
 	{
 		id: 2,
 		image: null,
-		name: 'Oluwasegun Babalola',
+		name: 'Veek Design',
 		link: null,
 		title: 'UIUX designer',
 		description:
-			'Khalid is a developer with a rare eye for user-centric design. His knack for rapid iteration and attention to detail ensured a seamless bridge between UX and implementation. He’s the kind of technical partner who elevates both product and process.',
+			"Kay brings a user-focused mindset to every project. His collaborative approach and rapid iteration helped bridge the gap between design and implementation, resulting in intuitive and effective user experiences. He is a reliable technical partner who elevates both product and process.",
 	},
 	{
 		id: 3,
 		image: null,
-		name: 'Yusuf A Hussein',
+		name: 'Adebajo Abdul',
 		link: null,
-		title: 'Frontend Engeneer',
+		title: 'Frontend Engineer',
 		description:
-			'We’ve collaborated on multiple projects. Khalid has a sharp eye for detail and moves fast. He brings energy, curiosity, and a real drive to ship functional code. He’s the type of engineer you want in your team.',
+			"Having worked with Kay on multiple projects, I can attest to his strong work ethic and technical proficiency. He approaches challenges with curiosity and delivers functional, scalable solutions efficiently. Kay is an engineer who consistently adds value to any development team.",
 	},
 ];
