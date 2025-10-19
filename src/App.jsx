@@ -11,6 +11,7 @@ import Skills from './componenets/skills/Skills';
 import Testimonials from './componenets/testimonials/Testimonials';
 import Works from './componenets/works/Works';
 import emailjs from '@emailjs/browser';
+import { Analytics } from "@vercel/analytics/next";
 
 function App() {
 	useEffect(() => {
@@ -39,6 +40,7 @@ function App() {
 				<Works />
 				<Testimonials />
 				<Contact />
+				<Analytics />
 			</main>
 
 			<Footer />
