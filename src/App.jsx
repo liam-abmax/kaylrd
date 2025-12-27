@@ -11,7 +11,7 @@ import Skills from './componenets/skills/Skills';
 import Testimonials from './componenets/testimonials/Testimonials';
 import Works from './componenets/works/Works';
 import emailjs from '@emailjs/browser';
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
 	useEffect(() => {
