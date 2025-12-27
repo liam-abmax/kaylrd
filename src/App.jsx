@@ -40,11 +40,11 @@ function App() {
 				<Works />
 				<Testimonials />
 				<Contact />
-				<Analytics />
 			</main>
 
 			<Footer />
 			<ScrollUp />
+			<Analytics />
 		</>
 	);
 }
